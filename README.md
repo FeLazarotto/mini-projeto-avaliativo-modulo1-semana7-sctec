@@ -129,7 +129,7 @@ Ao final da execução, o sistema apresenta informações como:
 ### 5.1 Clonar o Repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/FeLazarotto/mini-projeto-avaliativo-modulo1-semana7-sctec.git
 ```
 
 ### 5.2 Entrar na Pasta do Projeto
