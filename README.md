@@ -21,7 +21,7 @@ O pipeline segue o seguinte fluxo:
 ## 2. Estrutura do Projeto
 
 ```text
-SCTEC-miniprojeto-Modulo1-semana07-Olist/
+mini-projeto-avaliativo-modulo1-semana7-sctec/
 │
 ├── funcoes.py
 ├── main.py
@@ -135,7 +135,7 @@ git clone URL_DO_REPOSITORIO
 ### 5.2 Entrar na Pasta do Projeto
 
 ```bash
-cd SCTEC-miniprojeto-Modulo1-semana07-Olist
+cd mini-projeto-avaliativo-modulo1-semana7-sctec
 ```
 
 ### 5.3 Executar o Projeto
